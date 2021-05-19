@@ -3,7 +3,7 @@ from pymessenger import Bot
 import pyshorteners
 
 app = Flask(__name__)
-bot = Bot('EAAT5zrtyvo8BAG0Jkpmuv7G2EWOOjcFB5YC1SNNL9QmkidGpAIBAZCZBzDU2jZBRJBJdKN80ZBLZCZCG7o1S03MTOpU3OR8ozZCNOa7mrnhTM9Y3yjRpTTkJtQy9KigQ1RtG86ZAhbqJAnEDIjRW5yNRIRP2Az8nqqtALKhTcP5jZAUbHsLZBkZCeBQ')
+bot = Bot('')
 verify_token = 'isift'
 
 
